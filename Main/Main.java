@@ -1,5 +1,4 @@
 package Main;
-import java.io.FileWriter;
 import java.util.*;
 
 import Modelo.Apto;
